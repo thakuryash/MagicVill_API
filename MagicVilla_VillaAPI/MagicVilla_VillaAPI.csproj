@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Remove="Models\NewFolder1\**" />
     <Compile Remove="Models\NewFolder\**" />
     <Content Remove="Models\NewFolder1\**" />
@@ -19,6 +20,8 @@
   </ItemGroup>
 
   <ItemGroup>
+=======
+>>>>>>> 27e25996700950bf03c459a1e4efa6f1b5a040a2
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
